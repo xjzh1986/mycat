@@ -1,0 +1,3 @@
+mycat myql 读写分离参考
+Docker安装Mycat并实现mysql读写分离,分库分表
+https://blog.csdn.net/Amor_Leo/article/details/85218405
